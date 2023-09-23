@@ -3,9 +3,19 @@
     {
       "id":1,
       "image":"https://media.istockphoto.com/id/1324844508/photo/gorgeous-woman-wearing-beautiful-maxi-dress-posing-against-wall-with-a-wild-grape.jpg?s=612x612&w=0&k=20&c=BJrcuLt0m5Hm6zOhgO-E0TGqIxzWKdecgw1xcOu1aN4=",
+      "name":"SilkSaaree",
      "description":"this is silk material",
-     "gender":"Female",
+     "gender":"female",
      "category":"saree",
+     "price":"2999"
+    },
+    {
+      "id":2,
+      "image":"https://media.istockphoto.com/id/1324844508/photo/gorgeous-woman-wearing-beautiful-maxi-dress-posing-against-wall-with-a-wild-grape.jpg?s=612x612&w=0&k=20&c=BJrcuLt0m5Hm6zOhgO-E0TGqIxzWKdecgw1xcOu1aN4=",
+      "name":"cottonsuit",
+     "description":"this is cotton material",
+     "gender":"male",
+     "category":"suits",
      "price":"2999"
     }
    
