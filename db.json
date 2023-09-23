@@ -1,18 +1,13 @@
 {
-    "dogs": [
-      {
-        "id": 1,
-        "name": "Cherry",
-        "age": 2,
-        "place": "Visakhapatnam",
-        "gender": "Male"
-      },
-      {
-        "id": 2,
-        "name": "Tommy",
-        "age": 3,
-        "place": "Banglore",
-        "gender": "Female"
-      }
-    ]
-  }
+  "products":[
+    {
+      "id":1,
+      "image":"https://media.istockphoto.com/id/1324844508/photo/gorgeous-woman-wearing-beautiful-maxi-dress-posing-against-wall-with-a-wild-grape.jpg?s=612x612&w=0&k=20&c=BJrcuLt0m5Hm6zOhgO-E0TGqIxzWKdecgw1xcOu1aN4=",
+     "description":"this is silk material",
+     "gender":"Female",
+     "category":"saree",
+     "price":"2999"
+    }
+   
+  ]
+}
